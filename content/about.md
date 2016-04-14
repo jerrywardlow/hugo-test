@@ -7,14 +7,14 @@ title = "About Page Title"
 
 This is the basic content of our test page!
 
-# This is going to be an <h1> tag
+# This is going to be an \<h1\> tag
 
-### Now we've got an <h3> tag!
+### Now we've got an \<h3\> tag!
 
-#### <h6> tag is the business!!
+#### \<h6\> tag is the business!!
 
 
-Now that we've got <h> tags out of the way, let's
+Now that we've got \<h\> tags out of the way, let's
 
 **BOLD SOME STUFF**
 
