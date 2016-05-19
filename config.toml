@@ -1,5 +1,5 @@
 baseurl = "http://place_holder_site.com/"
 languageCode = "en-us"
 title = "Place Holder for Testing"
-theme = "nofancy"
+theme = "robust"
 pygmentsStyle = "native"
